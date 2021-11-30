@@ -51,9 +51,10 @@
 
   
   ![Snake animation](https://github.com/ntgnst/ntgnst/blob/output/github-contribution-grid-snake.svg)
-  
+  <!--
   <div style="display: inline_block"><br>
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/5228912?color=yellow&logo=stackoverflow&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/ntgnst?style=for-the-badge" />
   <img src="https://img.shields.io/discord/755521641001386054?label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
 </div>
+-->
