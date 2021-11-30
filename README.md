@@ -11,8 +11,8 @@
   
 
 
-### Recently Worked
-  <hr>
+## Recently Worked
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ntgnst-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    -
@@ -33,23 +33,22 @@
   <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
    - 
   <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  
+  <img class="avatar rounded-2 avatar-user" align="right" src="https://avatars.githubusercontent.com/u/17345531?s=400&amp;v=4" height="150" style="border-radius:50px;" alt="@ntgnst">
 </div>
   
-### Hit me up !
-  <hr>
+##
+
 <div style="display: inline_block"><br>
   <a href="https://stackoverflow.com/users/5228912/batuhan" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=orange" target="_blank"></a>
   <a href="https://www.linkedin.com/in/batuhan-yah%C5%9Fi-bb5819b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/335109059260710912" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:yahsibatuhan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_ntgnst" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
 </div>
-
-
-
   
   ![Snake animation](https://github.com/ntgnst/ntgnst/blob/output/github-contribution-grid-snake.svg)
+  
   <!--
   <div style="display: inline_block"><br>
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/5228912?color=yellow&logo=stackoverflow&style=for-the-badge" />
