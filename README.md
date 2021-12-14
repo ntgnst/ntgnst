@@ -18,21 +18,23 @@
    -
   <img align="center" alt="ntgnst-Vue" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
    - 
-  <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ntgnst-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    - 
-  <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="ntgnst-Nuxt" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
    - 
   <img align="center" alt="ntgnst-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
    - 
-  <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="ntgnst-DotNetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
    - 
   <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    - 
-  <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="ntgnst-Graphql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
    - 
-  <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="ntgnst-Firebase" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
    - 
-  <img align="center" alt="ntgnst-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="ntgnst-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  -
+  <img align="center" alt="ntgnst-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
   <img class="avatar rounded-2 avatar-user" align="right" src="https://avatars.githubusercontent.com/u/17345531?s=400&amp;v=4" height="150" style="border-radius:50px;" alt="@ntgnst">
 </div>
   
