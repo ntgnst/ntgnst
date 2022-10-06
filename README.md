@@ -1,4 +1,6 @@
+<!---
 ### Stats
+
 
 <hr>
 <div align="center" style="background-color: 151515">
@@ -6,6 +8,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ntgnst&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgnst&show_icons=true&layout=compact&langs_count=16&theme=dark&hide_border=true&hide=css,php,python"/>
 </div>
+--->
   
 
   
